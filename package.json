@@ -2,11 +2,19 @@
     "name": "twitch-dark-theme",
     "displayName": "twitch-dark-theme",
     "description": "A colortheme influenced by Twitch.tv",
-    "version": "0.0.1",
+    "icon": "image/icon.png",
+    "version": "0.0.2",
     "publisher": "Enubia",
     "repository": {
         "url": "https://github.com/Enubia/vsc-twitch-theme"
     },
+    "keywords": [
+        "dark theme",
+        "twitch",
+        "twitch theme",
+        "twitch dark theme",
+        "Enubia"
+    ],
     "engines": {
         "vscode": "^1.60.0"
     },
