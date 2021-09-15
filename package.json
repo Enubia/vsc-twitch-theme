@@ -2,7 +2,7 @@
     "name": "twitch-dark-theme",
     "displayName": "twitch-dark-theme",
     "description": "A colortheme influenced by Twitch.tv",
-    "icon": "image/icon.png",
+    "icon": "images/icon.png",
     "version": "0.0.2",
     "publisher": "Enubia",
     "repository": {
