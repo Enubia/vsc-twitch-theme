@@ -1,8 +1,12 @@
 {
-    "name": "twitch-theme",
-    "displayName": "twitch-theme",
+    "name": "twitch-dark-theme",
+    "displayName": "twitch-dark-theme",
     "description": "A colortheme influenced by Twitch.tv",
     "version": "0.0.1",
+    "publisher": "Enubia",
+    "repository": {
+        "url": "https://github.com/Enubia/vsc-twitch-theme"
+    },
     "engines": {
         "vscode": "^1.60.0"
     },
@@ -12,9 +16,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Twitch Theme",
+                "label": "Twitch Dark Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Twitch Theme-color-theme.json"
+                "path": "./themes/Twitch Dark Theme-color-theme.json"
             }
         ]
     }

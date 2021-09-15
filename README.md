@@ -1,13 +1,11 @@
-# README
-## This is the README for your extension "twitch-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Twitch Dark Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+This color-theme is inspired by twitch and [JetBrains Twitch Dark Theme](https://plugins.jetbrains.com/plugin/15391-twitch-dark-theme).
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+It uses the common twitch brand colors.
 
-**Enjoy!**
+<p align=center>
+  <img src="./images/Screenshot 2021-09-15 at 14.32.25.png">
+  <img src="./images/Screenshot 2021-09-15 at 14.33.48.png">
+  <img src="./images/Screenshot 2021-09-15 at 14.34.30.png">
+</p>
